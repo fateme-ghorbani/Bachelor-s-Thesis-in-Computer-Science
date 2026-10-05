@@ -181,6 +181,7 @@ Bachelor-s-Thesis-in-Computer-Science/
 * Matplotlib
 * Seaborn
 * Jupyter Notebook
+* folium
 
 ---
 
