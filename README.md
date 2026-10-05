@@ -175,7 +175,6 @@ The project was implemented using Python and the following tools and libraries:
 * HDBSCAN
 * Matplotlib
 * Seaborn
-* Folium
 * Jupyter Notebook
 
 ---
